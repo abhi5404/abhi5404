@@ -36,14 +36,13 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi5404&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi5404&theme=radical" width="45%" />
-</p>
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi5404&layout=compact&theme=radical" width="45%" />
+  <img src="https://gprm.itsvg.in/api?username=abhi5404&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
+  <img src="https://gprm.itsvg.in/api/top-langs?username=abhi5404&layout=compact&theme=radical" alt="Top Languages" width="45%" />
 </p>
+
 
 ---
 
