@@ -2,53 +2,62 @@
 <h3 align="center">Frontend & Backend Developer | MERN Stack Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/abhi5404">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+love+to+code.;Always+learning+new+things!&center=true&color=00ff90&vCenter=true&width=380&height=45">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF90&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+to+code.;Always+learning+new+things!" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
+### 🧑‍💻 About Me
 - 🔭 I’m currently working on **MERN Stack Projects**
-- 🌱 I’m learning **Next.js and TypeScript**
+- 🌱 Exploring **Next.js** and **TypeScript**
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
-- 📫 Email me at: **abhijitamp378@gmail.com**
-- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/abhijit-mondal-a6ab04302/)
+- 📫 Reach me: **abhijitamp378@gmail.com**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abhijit-mondal-a6ab04302/)
 
 ---
 
-### 🛠️ Tools & Tech Stack
+### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🎯 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi5404&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi5404&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi5404&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi5404&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhi5404&theme=tokyonight&hide_border=true&border_radius=10" width="98%"/>
 </p>
 
 ---
 
-### 📫 Contact
+### 👨‍🎨 Aesthetic Coding Vibe
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca7d93f1510b1f6c85e22b2b39.gif" width="60%" />
+</p>
+
+---
+
+### 📬 Connect with Me
 
 <p align="center">
   <a href="mailto:abhijitamp378@gmail.com"><img src="https://img.shields.io/badge/-Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/abhijit-mondal-a6ab04302/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/abhi5404"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/abhijit-mondal-a6ab04302/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/abhi5404"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&qColor=%23ffffff&aColor=%2300ff90&borderColor=%2300ff90" alt="Jokes" />
+</p>
+
 
 
