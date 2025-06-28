@@ -2,32 +2,26 @@
 <h3 align="center">Frontend & Backend Developer | MERN Stack Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF90&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+to+code.;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF90&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+to+code.;Always+learning+new+things!" alt="Typing SVG" />
 </p>
 
 ---
 
-<table>
-  <tr>
-    <td width="60%">
-      
-<table>
-  <tr>
-    <td width="60%">
-      
-### 👨‍💻 About Me
+### 🧑‍💻 About Me
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca7d93f1510b1f6c85e22b2b39.gif" alt="Coding GIF" width="200"/>
+</p>
+
 - 🔭 I’m currently working on **MERN Stack Projects**
 - 🌱 Exploring **Next.js** and **TypeScript**
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
 - 📫 Reach me: **abhijitamp378@gmail.com**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/abhijit-mondal-a6ab04302/)
 
-    </td>
-    <td>
-      <img src="https://i.pinimg.com/originals/2a/65/f8/2a65f8a5cb6fbb64d3b3bb2efb17a2a7.gif" width="100%" alt="Coding Boy" />
-    </td>
-  </tr>
-</table>
+---
+
+### 🚀 Tech Stack
+... (rest of your README)
 
 
 ---
