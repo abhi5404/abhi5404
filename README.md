@@ -7,12 +7,23 @@
 
 ---
 
-### 🧑‍💻 About Me
+<table>
+  <tr>
+    <td width="60%">
+      
+### 👨‍💻 About Me
 - 🔭 I’m currently working on **MERN Stack Projects**
 - 🌱 Exploring **Next.js** and **TypeScript**
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
 - 📫 Reach me: **abhijitamp378@gmail.com**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/abhijit-mondal-a6ab04302/)
+
+    </td>
+    <td>
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca7d93f1510b1f6c85e22b2b39.gif" width="100%" alt="Coding Boy" style="border-radius: 12px; box-shadow: 0 0 20px #00ff90;">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -24,7 +35,7 @@
 
 ---
 
-### 🎯 GitHub Stats & Activity
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhi5404&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="47%" />
@@ -33,14 +44,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abhi5404&theme=tokyonight&hide_border=true&border_radius=10" width="98%"/>
-</p>
-
----
-
-### 👨‍🎨 Aesthetic Coding Vibe
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca7d93f1510b1f6c85e22b2b39.gif" width="60%" />
 </p>
 
 ---
