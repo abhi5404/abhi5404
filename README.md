@@ -7,6 +7,8 @@
 
 ---
 
+---
+
 ### 🧑‍💻 About Me
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca7d93f1510b1f6c85e22b2b39.gif" alt="Coding GIF" width="200"/>
@@ -18,10 +20,6 @@
 - 📫 Reach me: **abhijitamp378@gmail.com**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/abhijit-mondal-a6ab04302/)
 
----
-
-### 🚀 Tech Stack
-... (rest of your README)
 
 
 ---
