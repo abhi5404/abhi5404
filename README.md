@@ -11,6 +11,10 @@
   <tr>
     <td width="60%">
       
+<table>
+  <tr>
+    <td width="60%">
+      
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **MERN Stack Projects**
 - 🌱 Exploring **Next.js** and **TypeScript**
@@ -20,10 +24,11 @@
 
     </td>
     <td>
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca7d93f1510b1f6c85e22b2b39.gif" width="100%" alt="Coding Boy" style="border-radius: 12px; box-shadow: 0 0 20px #00ff90;">
+      <img src="https://i.pinimg.com/originals/2a/65/f8/2a65f8a5cb6fbb64d3b3bb2efb17a2a7.gif" width="100%" alt="Coding Boy" />
     </td>
   </tr>
 </table>
+
 
 ---
 
