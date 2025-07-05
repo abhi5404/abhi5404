@@ -50,7 +50,12 @@
 </p>
 
 <!--START_SECTION:waka-->
-<!-- Automatically updated by GitHub Actions. Do not change this section manually. -->
+
+```txt
+JavaScript   20 mins         ██████████████▒░░░░░░░░░░   57.96 %
+C++          14 mins         ██████████▓░░░░░░░░░░░░░░   42.04 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
