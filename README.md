@@ -2,7 +2,7 @@
 <h3 align="center">Frontend & Backend Developer | MERN Stack Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF90&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+to+code.;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF90&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+to+code.;Always+learning+new+things!" alt="Typing SVG" />
 </p>
 
 ---
@@ -41,16 +41,23 @@
 
 ---
 
-### ⌛ WakaTime Stats
+### ⌛ My WakaTime Coding Stats
+
+<p align="center">
+  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg" alt="Wakatime badge" />
+</p>
 
 <!--START_SECTION:waka-->
-
-```txt
-JavaScript   20 mins         ██████████████▒░░░░░░░░░░   57.96 %
-C++          14 mins         ██████████▓░░░░░░░░░░░░░░   42.04 %
-```
-
+<!-- Automatically updated by GitHub Actions. Do not change this section manually. -->
 <!--END_SECTION:waka-->
+
+---
+
+### 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhi5404/abhi5404/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
@@ -62,7 +69,6 @@ C++          14 mins         ██████████▓░░░░░░
   <a href="https://github.com/abhi5404"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
----
 
 
 
