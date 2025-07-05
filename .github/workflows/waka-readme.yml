@@ -2,7 +2,7 @@ name: WakaTime Readme Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # runs every day at 00:00 UTC
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -12,8 +12,11 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          ### optional customizations below:
-          ### SHOW_TITLE: true
-          ### BLOCKS: true
-          ### TIME_RANGE: last_7_days
-          ### LANG_COUNT: 5
+          SHOW_TITLE: true
+          TIME_RANGE: last_7_days
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
+          SECTION_NAME: waka
+          COMMIT_MESSAGE: Updated WakaTime stats
+
