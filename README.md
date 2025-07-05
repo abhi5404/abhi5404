@@ -7,8 +7,6 @@
 
 ---
 
----
-
 ### 🧑‍💻 About Me
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca7d93f1510b1f6c85e22b2b39.gif" alt="Coding GIF" width="200"/>
@@ -19,8 +17,6 @@
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
 - 📫 Reach me: **abhijitamp378@gmail.com**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/abhijit-mondal-a6ab04302/)
-
-
 
 ---
 
@@ -45,6 +41,13 @@
 
 ---
 
+### ⌛ WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ### 📬 Connect with Me
 
 <p align="center">
@@ -54,10 +57,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&qColor=%23ffffff&aColor=%2300ff90&borderColor=%2300ff90" alt="Jokes" />
-</p>
 
 
 
