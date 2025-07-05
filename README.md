@@ -8,6 +8,7 @@
 ---
 
 ### 🧑‍💻 About Me
+
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca7d93f1510b1f6c85e22b2b39.gif" alt="Coding GIF" width="200"/>
 </p>
@@ -28,7 +29,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhi5404&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="47%" />
@@ -41,34 +42,22 @@
 
 ---
 
-### ⌛ My WakaTime Coding Stats
+### ⏱ WakaTime Stats
+
+#### WakaTime Badge
 
 <p align="center">
-  <a href="https://wakatime.com/@YOUR_USERNAME">
-    <img src="https://wakatime.com/badge/user/YOUR_USER_ID.svg" alt="Wakatime Badge"/>
-  </a>
+  <img src="https://wakatime.com/badge/user/4656b9ff-63e2-4c06-b2d7-5e3f67080920.svg" alt="wakatime">
 </p>
 
-<!--START_SECTION:waka-->
-
-```txt
-JavaScript   20 mins         ██████████████▒░░░░░░░░░░   57.96 %
-C++          14 mins         ██████████▓░░░░░░░░░░░░░░   42.04 %
-```
-
-<!--END_SECTION:waka-->
+> Make sure the badge works by checking: [Your WakaTime Profile](https://wakatime.com/@abhijitmondal)
 
 ---
 
----
-
-### 🐍 Contribution Snake Animation
+### 🐍 Dynamic Snake Contribution Graph
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhi5404/abhi5404/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/abhi5404/abhi5404/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-  </picture>
+  <img src="https://github.com/abhi5404/abhi5404/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
