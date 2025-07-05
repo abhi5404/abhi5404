@@ -60,10 +60,15 @@ C++          14 mins         ██████████▓░░░░░░
 
 ---
 
+---
+
 ### 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhi5404/abhi5404/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhi5404/abhi5404/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/abhi5404/abhi5404/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+  </picture>
 </p>
 
 ---
