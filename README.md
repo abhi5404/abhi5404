@@ -44,7 +44,9 @@
 ### ⌛ My WakaTime Coding Stats
 
 <p align="center">
-  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg" alt="Wakatime badge" />
+  <a href="https://wakatime.com/@YOUR_USERNAME">
+    <img src="https://wakatime.com/badge/user/YOUR_USER_ID.svg" alt="Wakatime Badge"/>
+  </a>
 </p>
 
 <!--START_SECTION:waka-->
@@ -68,6 +70,7 @@
   <a href="https://www.linkedin.com/in/abhijit-mondal-a6ab04302/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/abhi5404"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+
 
 
 
