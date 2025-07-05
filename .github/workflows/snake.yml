@@ -1,31 +1,37 @@
-name: Generate Snake Animation
+name: Generate Gradient Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight
-  workflow_dispatch:      # Manual trigger
+    - cron: "0 0 * * *"  # every day at midnight
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
 
+    steps:
       - name: Generate snake animation
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: abhi5404
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+          gif: false
+          snake_color: "#ff5f6d,#ffc371"           # Gradient: pink-orange
+          background: "transparent"
+          color_snake: "dynamic"                   # adds motion trail!
+          color_dots: "#9be7ff,#e2ff9b,#ffa2ed"    # Gradient dots
+          mask: true
 
-      - name: Push generated snake.svg to output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 
 
