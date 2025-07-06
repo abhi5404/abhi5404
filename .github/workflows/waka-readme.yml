@@ -2,7 +2,7 @@ name: WakaTime Readme
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs every day at 12AM
+    - cron: '0 0 * * *'  # Every midnight
   workflow_dispatch:
 
 jobs:
@@ -19,6 +19,7 @@ jobs:
           SHOW_PROJECTS: "True"
           SHOW_OS: "True"
           SHOW_LINES_OF_CODE: "True"
+
 
 
 
