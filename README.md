@@ -47,8 +47,9 @@
 ### ⏱ WakaTime Stats
 
 <p align="center">
-  <img src="https://github.com/abhi5404/abhi5404/blob/master/images/stat.svg" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhijitmondal&theme=tokyonight&hide_border=true&border_radius=10" alt="WakaTime Stats" />
 </p>
+
 
 
 ### 🐍 Dynamic Snake Contribution Graph
