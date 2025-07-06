@@ -43,8 +43,9 @@
 ---
 
 ---
+---
 
-### ⏱ WakaTime Stats - Last 7 Days
+### ⏱ WakaTime Stats
 
 <p align="center">
   <img src="https://github.com/abhi5404/abhi5404/blob/master/images/stat.svg" alt="WakaTime Stats" />
