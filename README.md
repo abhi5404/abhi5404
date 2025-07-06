@@ -42,7 +42,7 @@
 
 ---
 
-### 📊 WakaTime Stats
+### ⏱ WakaTime Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhijitmondal&theme=tokyonight&hide_border=true&border_radius=10" alt="WakaTime Stats" />
