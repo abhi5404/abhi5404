@@ -16,8 +16,8 @@
 - 🔭 I’m currently working on **MERN Stack Projects**
 - 🌱 Exploring **Next.js** and **TypeScript**
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
-- 📫 Reach me: **abhijitamp378@gmail.com**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/abhijit-mondal-a6ab04302/)
+- 📢 Reach me: **abhijitamp378@gmail.com**
+- 🔗 <a href="https://www.linkedin.com/in/abhijit-mondal-a6ab04302/">LinkedIn</a>
 
 ---
 
@@ -42,15 +42,13 @@
 
 ---
 
----
----
-### ⏱ WakaTime Stats
+### 📊 WakaTime Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhijitmondal&theme=tokyonight&hide_border=true&border_radius=10" alt="WakaTime Stats" />
 </p>
 
-
+---
 
 ### 🐍 Dynamic Snake Contribution Graph
 
