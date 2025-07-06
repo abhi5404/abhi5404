@@ -42,17 +42,14 @@
 
 ---
 
-### ⏱ WakaTime Stats
+---
 
-#### WakaTime Badge
+### ⏱ WakaTime Stats - Last 7 Days
 
 <p align="center">
-  <img src="https://wakatime.com/badge/user/4656b9ff-63e2-4c06-b2d7-5e3f67080920.svg" alt="wakatime">
+  <img src="https://github.com/abhi5404/abhi5404/blob/master/images/stat.svg" alt="WakaTime Stats" />
 </p>
 
-> Make sure the badge works by checking: [Your WakaTime Profile](https://wakatime.com/@abhijitmondal)
-
----
 
 ### 🐍 Dynamic Snake Contribution Graph
 
