@@ -2,26 +2,29 @@ name: Generate 3D Snake
 
 on:
   schedule:
-    # run once a day
+    # Run once a day at midnight (UTC)
     - cron: "0 0 * * *"
-  workflow_dispatch:
+  workflow_dispatch: # Allow manual runs from Actions tab
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # 1) Generate GIF (plus you can add SVGs if you ever want)
-      - name: Generate snake (GIF)
+      # 1. Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 2. Generate the Snake 3D GIF
+      - name: Generate 3D Snake (GIF)
         uses: Platane/snk@v3
         with:
           github_user_name: abhi5404
-          # We only output a GIF for the 3D-style look
           outputs: |
             dist/snake-3d.gif?color_snake=%2300FF90&color_dots=%23161B22,%230E4429,%23006D32,%2326A641,%2339D353
 
-      # 2) Publish files to 'output' branch
-      - name: Push to output branch
+      # 3. Push the generated files to 'output' branch
+      - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
@@ -29,6 +32,7 @@ jobs:
           keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 
 
