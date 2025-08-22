@@ -1,36 +1,35 @@
-name: Generate Gradient Snake Animation
+name: Generate 3D Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # every day at midnight
+    # run once a day
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
+      # 1) Generate GIF (plus you can add SVGs if you ever want)
+      - name: Generate snake (GIF)
+        uses: Platane/snk@v3
         with:
           github_user_name: abhi5404
+          # We only output a GIF for the 3D-style look
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
-          gif: false
-          snake_color: "#ff5f6d,#ffc371"           # Gradient: pink-orange
-          background: "transparent"
-          color_snake: "dynamic"                   # adds motion trail!
-          color_dots: "#9be7ff,#e2ff9b,#ffa2ed"    # Gradient dots
-          mask: true
+            dist/snake-3d.gif?color_snake=%2300FF90&color_dots=%23161B22,%230E4429,%23006D32,%2326A641,%2339D353
 
+      # 2) Publish files to 'output' branch
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 
 
