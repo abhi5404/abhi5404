@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhijit Mondal</h1>
-<h3 align="center">Frontend & Backend Developer · MERN Stack Enthusiast</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF90&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+love+to+code.;Always+learning+new+things!" alt="Typing SVG" />
@@ -25,7 +25,7 @@
 </p>
 
 - 🔭 I’m currently working on **MERN Stack Projects**
-- 🌱 Exploring **Next.js** and **TypeScript**
+- 🌱 Exploring **Data Science** and **Machine Learning**
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
 - 📫 Reach me: **abhijitamp378@gmail.com**
 - 🔗 <a href="https://www.linkedin.com/in/abhijit-mondal-a6ab04302/">LinkedIn</a>
