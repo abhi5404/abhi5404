@@ -29,6 +29,8 @@
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
 - 📫 Reach me: **abhijitamp378@gmail.com**
 - 🔗 <a href="https://www.linkedin.com/in/abhijit-mondal-a6ab04302/">LinkedIn</a>
+- 🔗 If you want to know myself more : <a href="https://drive.google.com/file/d/1-YyoGc27U4TvRv9nscSW6VCiyXT8fo-7/view">Resume</a>
+
 
 ---
 
