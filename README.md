@@ -1,87 +1,67 @@
-<h1 align="center">Hi 👋, I'm Abhijit Mondal</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Abhijit+Mondal....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF90&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+love+to+code.;Always+learning+new+things!" alt="Typing SVG" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
+<h3 align="center">💻 Full Stack Developer | MERN | Data Science Enthusiast</h3>
+
+![gitartwork](gitartwork.svg)
+
+<p align="center"> 
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/abhi5404/count.svg" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhi5404&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <!-- GitHub profile badges -->
-  <img src="https://img.shields.io/github/followers/abhi5404?label=Followers&style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/abhi5404?label=Stars&style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/last-commit/abhi5404/abhi5404?label=Last%20update&style=for-the-badge" />
-</p>
-
----
-
-### 🧑‍💻 About Me
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca7d93f1510b1f6c85e22b2b39.gif" alt="Coding GIF" width="250"/>
-</p>
-
-- 🔭 I’m currently working on **MERN Stack Projects**
-- 🌱 Exploring **Data Science** and **Machine Learning**
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
-- 📫 Reach me: **abhijitamp378@gmail.com**
-- 🔗 <a href="https://www.linkedin.com/in/abhijit-mondal-a6ab04302/">LinkedIn</a>
-- 🔗 If you want to know myself more : <a href="https://drive.google.com/file/d/1-YyoGc27U4TvRv9nscSW6VCiyXT8fo-7/view">Resume</a>
-
-
----
-
-### 🚀 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca7d93f1510b1f6c85e22b2b39.gif" alt="Coding" width="400"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi5404&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi5404&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhi5404&theme=tokyonight&hide_border=true&border_radius=10" width="98%"/>
-</p>
+> 🚀 **"Code. Create. Evolve. Repeat."**  
+> Passionate about building impactful full-stack projects & exploring the universe of technology 🌌
 
 ---
 
-### ⏱ WakaTime
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhijitmondal&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
+### ⚡ About Me
 
----
+```yaml
+Full Name: Abhijit Mondal
+Role: Full Stack Developer | MERN Enthusiast
+Learning: Data Science & Machine Learning
+Currently Working On: MERN Stack Projects
+Open For: Collaboration | Open Source | Freelance Work
+Email: abhijitamp378@gmail.com
+LinkedIn: linkedin.com/in/abhijit-mondal-a6ab04302
+Resume: https://drive.google.com/file/d/1-YyoGc27U4TvRv9nscSW6VCiyXT8fo-7/view
+🧠 My Tech Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,python,cpp,git,github,vscode,figma" /> </div>
+💡 Focus Areas
+yaml
+Copy code
+💻 Full Stack Web Development (MERN)
+📊 Data Science & Analytics (Python, Pandas, ML)
+🎨 UI/UX & Frontend Animation
+🚀 Problem Solving & System Design
+🏆 GitHub Achievements & Highlights
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=abhi5404&theme=dracula&column=6" /> </div>
+📈 GitHub Activity Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi5404&theme=synthwave-84&hide_border=true" /> </div>
+📊 GitHub Stats
+<p align="center"> <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi5404&layout=compact&theme=tokyonight" alt="Top Languages" /> <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=abhi5404&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi5404&theme=tokyonight" alt="Streak Stats" /> </p>
+🧩 GitHub Summary Cards
+<div align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi5404&theme=tokyonight" height="180em" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhi5404&theme=tokyonight" height="180em" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhi5404&theme=tokyonight" height="180em" /> </div>
+🐍 Snake Contribution Animation
+<p align="center"> <img src="https://raw.githubusercontent.com/abhi5404/abhi5404/output/snake-3d.gif" alt="3D Snake Animation" /> </p>
+📊 LeetCode Stats
 
-### 🐍 3D-style Snake Contribution Animation
-<!-- This GIF is generated by a GitHub Action and stored on the 'output' branch -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhi5404/abhi5404/output/snake-3d.gif" alt="3D Snake Animation" />
-</p>
+✍️ Random Dev Quote
 
----
-
-### 🏆 GitHub Achievements & Badges
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhi5404&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
-
-### 📬 Connect with Me
-<p align="center">
-  <a href="mailto:abhijitamp378@gmail.com"><img src="https://img.shields.io/badge/-Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/abhijit-mondal-a6ab04302/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/abhi5404"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
+📬 Connect with Me
+<p align="center"> <a href="mailto:abhijitamp378@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/abhijit-mondal-a6ab04302/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/abhi5404"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> </p> ```
 
 
 
