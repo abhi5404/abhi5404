@@ -1,7 +1,4 @@
-<!-- =========================
-      ABHIJIT MONDAL - GITHUB PROFILE
-      Inspired design with modern clean sections
-========================= -->
+
 
 <h1 align="center">Hey 👋, I'm Abhijit Mondal</h1>
 <h3 align="center">Full Stack Developer | MERN Stack | Lifelong Learner 🚀</h3>
