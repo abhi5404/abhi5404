@@ -69,16 +69,18 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhi5404&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15" />
+  <img src="https://img.shields.io/github/followers/abhi5404?style=for-the-badge&label=Followers">
+  <img src="https://img.shields.io/github/stars/abhi5404?style=for-the-badge&label=Stars">
+  <img src="https://img.shields.io/github/commit-activity/y/abhi5404?style=for-the-badge&label=Commits">
 </p>
-
 ---
+
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi5404&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi5404&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhi5404&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abhi5404&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
