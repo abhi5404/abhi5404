@@ -125,7 +125,7 @@
 <p align="center">
   <a href="https://wakatime.com/@abhijitmondal">
     <img
-      src="https://wakatime.com/share/@abhijitmondal/7b8e4c3e-6f2c-4c9c-b3a6-REPLACE_THIS.svg"
+      src="https://wakatime.com/share/@abhijitmondal/0a60c36a-06cd-4dbf-ab77-2092f908d451.svg"
       alt="WakaTime Stats"
     />
   </a>
