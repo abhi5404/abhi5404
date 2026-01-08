@@ -78,11 +78,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://stats-github.vercel.app/api?username=abhi5404&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://stats-github.vercel.app/api/top-langs/?username=abhi5404&layout=compact&theme=tokyonight" width="48%"/>
-</p>
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abhi5404&theme=tokyonight&hide_border=true" width="98%"/>
@@ -128,7 +123,12 @@
 ## ⏱ WakaTime Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhijitmondal&theme=tokyonight&hide_border=true" />
+  <a href="https://wakatime.com/@abhijitmondal">
+    <img
+      src="https://wakatime.com/share/@abhijitmondal/7b8e4c3e-6f2c-4c9c-b3a6-REPLACE_THIS.svg"
+      alt="WakaTime Stats"
+    />
+  </a>
 </p>
 
 ---
