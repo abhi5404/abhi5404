@@ -111,11 +111,16 @@
 </p>
 
 ---
-
 ## 🧮 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/AbhijitMondal01?theme=dark&font=Baloo%202&ext=heatmap" />
+  <a href="https://leetcode.com/u/AbhijitMondal01/">
+    <img
+      src="https://leetcard.jacoblin.cool/AbhijitMondal01?theme=dark&font=Baloo%202&ext=heatmap"
+      alt="LeetCode Stats"
+      width="600"
+    />
+  </a>
 </p>
 
 ---
