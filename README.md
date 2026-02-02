@@ -150,14 +150,70 @@
 ---
 ## 🧊 3D Contribution Graph
 
+<!-- Displays a different random theme on each page visit -->
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/abhi5404/abhi5404/main/profile-3d-contrib/profile-night-green.svg"
-    alt="3D GitHub Contribution Graph"
-    width="800"
-  />
+  <a href="https://github.com/abhi5404/abhi5404/tree/main/profile-3d-contrib">
+    <img src="https://abhi5404.vercel.app/api/random-3d-graph" alt="3D Contribution Graph - Random Theme" width="800"/>
+  </a>
 </p>
->
+
+> 🎨 The graph displays a different theme each time you visit! Themes include: Green Animated, Night Green, Night Rainbow, Season Animated, Git Block, Night View, and more.
+
+<details>
+<summary>🖼️ View All Available Themes (Click to expand)</summary>
+<br/>
+
+### Green Animated Theme
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhi5404/abhi5404/main/profile-3d-contrib/profile-green-animate.svg" alt="Green Animated" width="800"/>
+</p>
+
+### Night Green Theme  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhi5404/abhi5404/main/profile-3d-contrib/profile-night-green.svg" alt="Night Green" width="800"/>
+</p>
+
+### Night Rainbow Theme
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhi5404/abhi5404/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Night Rainbow" width="800"/>
+</p>
+
+### Season Animated Theme
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhi5404/abhi5404/main/profile-3d-contrib/profile-season-animate.svg" alt="Season Animated" width="800"/>
+</p>
+
+### Git Block Theme
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhi5404/abhi5404/main/profile-3d-contrib/profile-gitblock.svg" alt="Git Block" width="800"/>
+</p>
+
+### Night View Theme
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhi5404/abhi5404/main/profile-3d-contrib/profile-night-view.svg" alt="Night View" width="800"/>
+</p>
+
+### South Season Animated Theme
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhi5404/abhi5404/main/profile-3d-contrib/profile-south-season-animate.svg" alt="South Season Animated" width="800"/>
+</p>
+
+### Green Theme
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhi5404/abhi5404/main/profile-3d-contrib/profile-green.svg" alt="Green" width="800"/>
+</p>
+
+### Season Theme
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhi5404/abhi5404/main/profile-3d-contrib/profile-season.svg" alt="Season" width="800"/>
+</p>
+
+### South Season Theme
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhi5404/abhi5404/main/profile-3d-contrib/profile-south-season.svg" alt="South Season" width="800"/>
+</p>
+
+</details>
 
 
 ## ⏱ WakaTime Stats
