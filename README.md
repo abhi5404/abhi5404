@@ -157,7 +157,7 @@
   </a>
 </p>
 
-> 🎨 The graph displays a different theme each time you visit! Themes include: Green Animated, Night Green, Night Rainbow, Season Animated, Git Block, Night View, and more.
+> 🎨 The graph displays a different theme each time you visit! Randomly rotates through 10 unique themes including: Green Animated, Night Green, Night Rainbow, Season Animated, Git Block, Night View, and more.
 
 <details>
 <summary>🖼️ View All Available Themes (Click to expand)</summary>
