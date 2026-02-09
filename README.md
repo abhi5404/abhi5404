@@ -186,5 +186,5 @@
 </p>
 
 <p align="center">
-  ⭐ Built with passion by <a href="https://github.com/abhi5404">Abhijit Mondal</a> ⭐
+  ⭐ Built by <a href="https://github.com/abhi5404">Abhijit Mondal</a> ⭐
 </p>
