@@ -99,6 +99,9 @@
   <a href="https://leetcode.com/u/AbhijitMondal01/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
   </a>
+  <a href="https://www.geeksforgeeks.org/profile/abhi5404?tab=activity">
+    <img src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+  </a>
 </p>
 
 ---
