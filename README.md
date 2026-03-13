@@ -110,24 +110,19 @@
 
 <p align="center">
 
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" />
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" />
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" />
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="100" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90"/>
 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/abhi5404?style=for-the-badge&label=Followers&color=0e75b6">
-  <img src="https://img.shields.io/github/stars/abhi5404?style=for-the-badge&label=Stars&color=yellow">
-  <img src="https://img.shields.io/github/commit-activity/y/abhi5404?style=for-the-badge&label=Commits&color=green">
+  <img src="https://img.shields.io/github/followers/abhi5404?style=for-the-badge&label=Followers&color=0e75b6"/>
+  <img src="https://img.shields.io/github/stars/abhi5404?style=for-the-badge&label=Stars&color=yellow"/>
+  <img src="https://img.shields.io/github/commit-activity/y/abhi5404?style=for-the-badge&label=Commits&color=green"/>
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhi5404&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
 
 
 ## 📊 GitHub Stats
