@@ -123,6 +123,11 @@
   <img src="https://img.shields.io/github/commit-activity/y/abhi5404?style=for-the-badge&label=Commits&color=green">
 </p>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=abhi5404&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 
 ## 📊 GitHub Stats
