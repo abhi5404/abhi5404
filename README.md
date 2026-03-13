@@ -109,11 +109,20 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/abhi5404?style=for-the-badge&label=Followers">
-  <img src="https://img.shields.io/github/stars/abhi5404?style=for-the-badge&label=Stars">
-  <img src="https://img.shields.io/github/commit-activity/y/abhi5404?style=for-the-badge&label=Commits">
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="100" />
+
 </p>
----
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/abhi5404?style=for-the-badge&label=Followers&color=0e75b6">
+  <img src="https://img.shields.io/github/stars/abhi5404?style=for-the-badge&label=Stars&color=yellow">
+  <img src="https://img.shields.io/github/commit-activity/y/abhi5404?style=for-the-badge&label=Commits&color=green">
+</p>
+
 
 
 ## 📊 GitHub Stats
