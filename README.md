@@ -168,10 +168,7 @@
     width="800"
   />
 </p>
->
 
-
----
 
 ## ✍️ Random Dev Quote
 
